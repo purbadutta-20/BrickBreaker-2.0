@@ -1,10 +1,9 @@
-# 🎮 Brick Breaker Pro
+🎮 Brick Breaker Pro
 
 A professional Brick Breaker arcade game built using Python and Pygame with modular architecture and advanced gameplay features.
 
----
 
-## 🚀 Features
+ 🚀 Features
 
 - Multiple Levels
 - Difficulty Modes (Easy, Medium, Hard)
@@ -16,25 +15,23 @@ A professional Brick Breaker arcade game built using Python and Pygame with modu
 - High Score Saving
 - Sound Effects and Music
 
----
 
-## 🛠 Tech Stack
+🛠 Tech Stack
 
 - Python 3.10+
 - Pygame
 - Object-Oriented Programming
 
----
 
-## 📦 Installation
+📦 Installation
 
 Clone repository:
         
-git clone : git remote add origin https://github.com/purbadutta-20/Break-Breaker-Pro.git
+git clone : git remote add origin https://github.com/purbadutta-20/BrickBreaker-2.0.git
 
 Go to folder:
 
-cd brick-breaker-pro
+cd BrickBreaker-2.0
 
 Install dependencies:
 
@@ -44,9 +41,8 @@ Run the game:
 
 python main.py
 
----
 
-## 🎮 Controls
+🎮 Controls
 
 LEFT / RIGHT → Move paddle  
 SPACE → Start game  
@@ -54,9 +50,8 @@ P → Pause
 R → Restart  
 1 / 2 / 3 → Select difficulty  
 
----
 
-## 📁 Project Structure
+📁 Project Structure
 
 entities/ → game objects  
 ui/ → menu and HUD  
@@ -65,8 +60,7 @@ assets/ → sounds
 game.py → main game logic  
 main.py → entry point  
 
----
 
-## 💡 Author
+💡 Author
 
-PURBA DUTTA 
+purbadutta-20
